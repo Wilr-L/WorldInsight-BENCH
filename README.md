@@ -6,7 +6,7 @@ This is the repository containing evaluation data, instructions and demonstratio
 
 -----
 
-![image-20251001173845894](C:\Users\Wilr\AppData\Roaming\Typora\typora-user-images\image-20251001173845894.png)
+<img width="1550" height="540" alt="ScreenShot_2025-10-01_180215_652" src="https://github.com/user-attachments/assets/097ad9e8-8d17-4717-9aa2-49826d278d62" />
 
 **Temporal Reasoning**
 
@@ -28,4 +28,5 @@ This is the repository containing evaluation data, instructions and demonstratio
 
 - ECI ([Gao et al., 2023a](https://aclanthology.org/2023.findings-emnlp.743/))
 - FantasyR ([Srivastava et al., 2023](https://iclr.cc/virtual/2025/poster/31514))
+
 

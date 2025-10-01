@@ -1,8 +1,8 @@
-## Exploring Large Language Models’ World Perception: A Multi-dimensional Evaluation through Data Distribution
+# Exploring Large Language Models’ World Perception: A Multi-dimensional Evaluation through Data Distribution
 
 This is the repository containing evaluation data, instructions and demonstrations with paper ***Exploring Large Language Models’ World Perception: A Multi-dimensional Evaluation through Data Distribution***.
 
-### **Datasets**
+## **Datasets**
 
 <img width="1550" height="540" alt="ScreenShot_2025-10-01_180215_652" src="https://github.com/user-attachments/assets/097ad9e8-8d17-4717-9aa2-49826d278d62" />
 
@@ -28,5 +28,6 @@ This is the repository containing evaluation data, instructions and demonstratio
 - FantasyR ([Srivastava et al., 2023](https://iclr.cc/virtual/2025/poster/31514))
 
 
-### **Results**
+## **Results**
 <img width="1875" height="1090" alt="ScreenShot_2025-10-01_180505_929" src="https://github.com/user-attachments/assets/2721bc15-208b-4717-b610-4349f7f58cd6" />
+

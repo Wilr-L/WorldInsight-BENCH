@@ -1,0 +1,400 @@
+{"Premise": "I am in trouble. \n trouble is in the air.", "Statement": "I am in the air", "Label": "no", "type": "metaphorical"}
+{"Premise": "I am in Romania. \n Romania is in Europe.", "Statement": "I am in Europe", "Label": "yes", "type": "physical"}
+{"Premise": "Fernando is on a trip to Zurich. \n the trip to Zurich is in Fernando's calendar.", "Statement": "Fernando is in Fernando's calendar", "Label": "no", "type": "mixed"}
+{"Premise": "Fernando is on a trip to Zurich. \n Zurich is in Switzerland.", "Statement": "Fernando is in Switzerland", "Label": "yes", "type": "physical"}
+{"Premise": "goat's cheese is on the menu. \n the menu is on the table.", "Statement": "goat's cheese is on the table", "Label": "no", "type": "mixed"}
+{"Premise": "goat's cheese is on the order. \n the order is on the way.", "Statement": "goat's cheese is on the way", "Label": "yes", "type": "mixed"}
+{"Premise": "the pear is on the table. \n the table is on the carpet.", "Statement": "the pear is on the carpet", "Label": "no", "type": "physical"}
+{"Premise": "the keys are on the bus seat. \n the bus is on the East road.", "Statement": "the car keys are on the East road", "Label": "yes", "type": "physical"}
+{"Premise": "my sister is at my mother's. \n my mother is at ease.", "Statement": "my sister is at ease", "Label": "no", "type": "mixed"}
+{"Premise": "my mother is at the restaurant. \n the restaurant is at the seaside.", "Statement": "my mother is at the seaside", "Label": "yes", "type": "physical"}
+{"Premise": "the tourists are at the centre of Venezuela. \n Venezuela is at war with Argentina.", "Statement": "the tourists are at war with Argentina", "Label": "no", "type": "mixed"}
+{"Premise": "I am at the hotel. \n the hotel is at the end of the street.", "Statement": "I am at the end of the street", "Label": "yes", "type": "physical"}
+{"Premise": "Robert is with his sister. \n his sister is in awe.", "Statement": "Robert is in awe", "Label": "no", "type": "mixed"}
+{"Premise": "Robert is with his sister. \n his sister is in France.", "Statement": "Robert is in France", "Label": "yes", "type": "physical"}
+{"Premise": "Helen is staying with Linda. \n Linda is at peace.", "Statement": "Helen is at peace", "Label": "no", "type": "mixed"}
+{"Premise": "Helen is staying with Linda. \n Linda is at a Roman guesthouse.", "Statement": "Helen is at a Roman guesthouse", "Label": "yes", "type": "physical"}
+{"Premise": "the names are in the report. \n the report is in progress.", "Statement": "the names are in progress", "Label": "no", "type": "mixed"}
+{"Premise": "the information is in the file. \n the file is in the computer drive.", "Statement": "the information is in the computer drive", "Label": "yes", "type": "physical"}
+{"Premise": "the book is on the box. \n the box is on the floor.", "Statement": "the book is on the floor", "Label": "no", "type": "physical"}
+{"Premise": "the book is on the box. \n the box is on the sixth floor of the library.", "Statement": "the book is on the sixth floor of the library", "Label": "yes", "type": "physical"}
+{"Premise": "the snowboard is on the car. \n the car is on the pavement.", "Statement": "the snowboard is on the pavement", "Label": "no", "type": "physical"}
+{"Premise": "the snowboard is on the car. \n the car is on the hill.", "Statement": "the snowboard is on the hill", "Label": "yes", "type": "physical"}
+{"Premise": "the fly is on the flower. \n the flower is in the pot.", "Statement": "the fly is in the pot", "Label": "no", "type": "physical"}
+{"Premise": "the dog is on the car. \n the car is in the garage.", "Statement": "the dog is in the garage", "Label": "yes", "type": "physical"}
+{"Premise": "I am with my friend. \n my friend is at the crossroads between psychology and philosophy.", "Statement": "I am at the crossroads between psychology and philosophy", "Label": "no", "type": "mixed"}
+{"Premise": "I am with my friend. \n my friend is at the hospital.", "Statement": "I am at the hospital", "Label": "yes", "type": "physical"}
+{"Premise": "I am in the train. \n the train is on the railway schedule.", "Statement": "I am on the railway schedule", "Label": "no", "type": "mixed"}
+{"Premise": "I am in the train. \n the train is on the way to California.", "Statement": "I am on the way to California", "Label": "yes", "type": "physical"}
+{"Premise": "Mary is in pain. \n Mary's pain is in Mary's mind.", "Statement": "Mary is in Mary's mind", "Label": "no", "type": "metaphorical"}
+{"Premise": "Mary is in her classroom. \n Mary's classroom is in Mary's hometown.", "Statement": "Mary is in Mary's hometown", "Label": "yes", "type": "physical"}
+{"Premise": "Mary is in pain. \n the pain is in her mind.", "Statement": "Mary is in her mind", "Label": "no", "type": "metaphorical"}
+{"Premise": "Mary is in a museum. \n the museum is in her hometown.", "Statement": "Mary is in her hometown", "Label": "yes", "type": "physical"}
+{"Premise": "Roger is in the newspaper. \n the newspaper is in the living room.", "Statement": "Roger is in the living room", "Label": "no", "type": "mixed"}
+{"Premise": "Roger is in the crib. \n the crib is in the living room.", "Statement": "Roger is in the living room", "Label": "yes", "type": "physical"}
+{"Premise": "the President is in the newspaper. \n the newspaper is on the floor.", "Statement": "the President is on the floor", "Label": "no", "type": "mixed"}
+{"Premise": "the party is in the garden. \n the garden is on the hill.", "Statement": "the party is on the hill", "Label": "yes", "type": "physical"}
+{"Premise": "the public attention is on climate change. \n climate change is on my mind.", "Statement": "the public attention is on my mind", "Label": "no", "type": "metaphorical"}
+{"Premise": "the forks are on the plate. \n the plate is on the boat.", "Statement": "the forks are on the boat", "Label": "yes", "type": "physical"}
+{"Premise": "I am in the house. \n the house is in need of repairs.", "Statement": "I am in need of repairs", "Label": "no", "type": "mixed"}
+{"Premise": "I am in the house. \n the house is in London.", "Statement": "I am in London", "Label": "yes", "type": "physical"}
+{"Premise": "John is in a lecture. \n the lecture is in the curriculum.", "Statement": "John is in the curriculum", "Label": "no", "type": "mixed"}
+{"Premise": "John is in a lecture. \n the lecture is in the main building.", "Statement": "John is in the main building", "Label": "yes", "type": "physical"}
+{"Premise": "the protection net is on the orchids. \n orchids is on the verge of extinction.", "Statement": "the protection net is on the verge of extinction", "Label": "no", "type": "mixed"}
+{"Premise": "the protection net is on the orchids. \n orchids are on the mountain.", "Statement": "the protection net is on the mountain", "Label": "yes", "type": "physical"}
+{"Premise": "there is a crown on her head. \n her head is in the clouds.", "Statement": "there is a crown in the clouds", "Label": "no", "type": "mixed"}
+{"Premise": "there is a crown on her head. \n her head is in the museum.", "Statement": "there is a crown in the museum", "Label": "yes", "type": "physical"}
+{"Premise": "the cat is on the sofa. \n the sofa is in a bad condition.", "Statement": "the cat is in a bad condition", "Label": "no", "type": "mixed"}
+{"Premise": "the cat is on the sofa. \n the sofa is in the kitchen.", "Statement": "in the cat is in the kitchen", "Label": "yes", "type": "physical"}
+{"Premise": "the mug is in my hand. \n my hand is in pain.", "Statement": "the mug is in pain", "Label": "no", "type": "mixed"}
+{"Premise": "the mug is in my hand. \n my hand is in the box.", "Statement": "the mug is in the box", "Label": "yes", "type": "physical"}
+{"Premise": "I am in the building. \n the building is under construction.", "Statement": "I am under construction", "Label": "no", "type": "mixed"}
+{"Premise": "I am in the tent. \n the tent is under the bridge.", "Statement": "I am under the bridge", "Label": "yes", "type": "physical"}
+{"Premise": "the report focus is on the financial crisis. \n the financial crisis is on my mind.", "Statement": "the report focus is on my mind", "Label": "no", "type": "metaphorical"}
+{"Premise": "the report is on my desk. \n my desk is on the ground floor.", "Statement": "the report is on the ground floor", "Label": "yes", "type": "physical"}
+{"Premise": "the pencil is on the book. \n the book is on my reading list.", "Statement": "the pencil is on my reading list", "Label": "no", "type": "mixed"}
+{"Premise": "the pencil is on the book. \n the book is on my desk.", "Statement": "the pencil is on my desk", "Label": "yes", "type": "physical"}
+{"Premise": "the mug is on the book. \n the book is on pregnancy.", "Statement": "the mug is on pregnancy", "Label": "no", "type": "mixed"}
+{"Premise": "the mug is on the book. \n the book is on top of the cupboard.", "Statement": "the mug is on top of the cupboard", "Label": "yes", "type": "physical"}
+{"Premise": "I am with Elena. \n Elena is in a rock band.", "Statement": "I am in a rock band", "Label": "no", "type": "mixed"}
+{"Premise": "my cousin is with me. \n I am in the park.", "Statement": "my cousin is in the park", "Label": "yes", "type": "physical"}
+{"Premise": "the broom is in the garden. \n the garden is at its best.", "Statement": "the broom is at its best", "Label": "no", "type": "mixed"}
+{"Premise": "the broom is in the garden. \n the garden is at the bottom of the mountain.", "Statement": "the broom is at the bottom of the mountain", "Label": "yes", "type": "physical"}
+{"Premise": "I am with my mother. \n my mother is at a loss.", "Statement": "I am at a loss", "Label": "no", "type": "mixed"}
+{"Premise": "I am with my mother. \n my mother is at my grandmother's.", "Statement": "I am at my grandmother's", "Label": "yes", "type": "physical"}
+{"Premise": "the blanket is in the car. \n the car is in the list.", "Statement": "the blanket is in the list", "Label": "no", "type": "mixed"}
+{"Premise": "the worm is in the apple. \n the apple is in the basket.", "Statement": "the worm is in the basket", "Label": "yes", "type": "physical"}
+{"Premise": "the competitors are in Slovakia. \n Slovakia is at war with Indonesia.", "Statement": "the competitors are at war with Indonesia", "Label": "no", "type": "mixed"}
+{"Premise": "my future is in my savings. \n my savings are at risk.", "Statement": "my future is at risk", "Label": "yes", "type": "mixed"}
+{"Premise": "the Director is in the project. \n the project is at an advanced stage of development.", "Statement": "the Director is at an advanced stage of development", "Label": "no", "type": "mixed"}
+{"Premise": "we are in a relationship. \n our relationship is at an impasse.", "Statement": "we are at an impasse", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the fire is in the newspaper. \n the newspaper is in the train.", "Statement": "the fire is in the train", "Label": "no", "type": "mixed"}
+{"Premise": "the coupon is in the newspaper. \n the newspaper is in the train.", "Statement": "the coupon is in the train", "Label": "yes", "type": "mixed"}
+{"Premise": "Claudia is in love. \n love is in the air.", "Statement": "Claudia is in the air", "Label": "no", "type": "metaphorical"}
+{"Premise": "Claudia is in the plane. \n the plane is in the hangar.", "Statement": "Claudia is in the hangar", "Label": "yes", "type": "physical"}
+{"Premise": "the drinks are on me. \n I am in love.", "Statement": "the drinks are in love", "Label": "no", "type": "mixed"}
+{"Premise": "the drinks are on the table. \n the table is in the pub.", "Statement": "the drinks are in the pub", "Label": "yes", "type": "physical"}
+{"Premise": "the dog is with me. \n I am in shock.", "Statement": "the dog is in shock", "Label": "no", "type": "mixed"}
+{"Premise": "the dog is with me. \n I am in the park.", "Statement": "the dog is in the park", "Label": "yes", "type": "physical"}
+{"Premise": "the voice is in my head. \n my head is in the clouds.", "Statement": "the voice is in the clouds", "Label": "no", "type": "metaphorical"}
+{"Premise": "the implant is in my ear. \n my ear is in the scanning machine.", "Statement": "the implant is in the scanning machine", "Label": "yes", "type": "physical"}
+{"Premise": "the memory is in my head. \n my head is in pain.", "Statement": "the memory is in pain", "Label": "no", "type": "mixed"}
+{"Premise": "the ghost is in my memory. \n the memory is in my mind.", "Statement": "the ghost is in my mind", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the house is in my name. \n my name is on my passport.", "Statement": "the house is on my passport", "Label": "no", "type": "mixed"}
+{"Premise": "the house is in my hometown. \n my hometown is on a hill.", "Statement": "the house is on a hill", "Label": "yes", "type": "physical"}
+{"Premise": "the pen is in my book. \n my book is on the neuroscience of sleep.", "Statement": "the pen is on the neuroscience of sleep", "Label": "no", "type": "mixed"}
+{"Premise": "the results are in my thesis. \n my thesis is on the neuroscience of sleep.", "Statement": "the results are on the neuroscience of sleep", "Label": "yes", "type": "mixed"}
+{"Premise": "the workshop is on the history of the forest. \n the history of the forest is in its tree rings.", "Statement": "the workshop is in its tree rings", "Label": "no", "type": "mixed"}
+{"Premise": "the workshop is on a historical site. \n the historical site is in a remote area.", "Statement": "the workshop is in a remote area", "Label": "yes", "type": "physical"}
+{"Premise": "there are strange sounds in the forest. \n the forest is in the photo.", "Statement": "there are strange sounds in the photo", "Label": "no", "type": "physical"}
+{"Premise": "there are strange shapes in the footprints. \n the footprints are in the photo.", "Statement": "there are strange shapes in the photo", "Label": "yes", "type": "physical"}
+{"Premise": "her personality is in her paintings. \n her paintings are in a museum.", "Statement": "her personality is in a museum", "Label": "no", "type": "mixed"}
+{"Premise": "her ideas are in her decorations. \n her decorations are in good taste.", "Statement": "her ideas are in good taste", "Label": "yes", "type": "metaphorical"}
+{"Premise": "there is greatness in the child. \n the child is with his classmates.", "Statement": "there is greatness with his classmates", "Label": "no", "type": "mixed"}
+{"Premise": "my money is in my account. \n my account is with a Swiss bank.", "Statement": "my money is with a Swiss bank", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the report is with my boss. \n my boss is on vacation.", "Statement": "the report is on vacation", "Label": "no", "type": "mixed"}
+{"Premise": "the cat is with its owner. \n its owner is on an island.", "Statement": "the cat is on an island", "Label": "yes", "type": "physical"}
+{"Premise": "the focus is on the ascent. \n the ascent is on foot.", "Statement": "the focus is on foot", "Label": "no", "type": "mixed"}
+{"Premise": "the focus is on the story. \n the story is on the evolution of modern art.", "Statement": "the focus is on the evolution of modern art", "Label": "yes", "type": "mixed"}
+{"Premise": "my favourite character is in the story. \n the story is under review.", "Statement": "my favourite character is under review", "Label": "no", "type": "metaphorical"}
+{"Premise": "my necklace is in the drawer. \n the drawer is under the table.", "Statement": "my necklace is under the table", "Label": "yes", "type": "physical"}
+{"Premise": "I am under the weather today. \n the weather is under the attention of scientists.", "Statement": "I am under the attention of scientists", "Label": "no", "type": "metaphorical"}
+{"Premise": "I am under the umbrella. \n the umbrella is under the ceiling.", "Statement": "I am under the ceiling", "Label": "yes", "type": "physical"}
+{"Premise": "a coffee is under 10 euros. \n 10 euros are in my pocket.", "Statement": "a coffee is in my pocket", "Label": "no", "type": "mixed"}
+{"Premise": "I am under the bridge. \n the bridge is in Bucharest.", "Statement": "I am in Bucharest", "Label": "yes", "type": "physical"}
+{"Premise": "John is under propofol. \n propofol is under the class of illegal drugs.", "Statement": "John is under the class of illegal drugs", "Label": "no", "type": "metaphorical"}
+{"Premise": "John is under propofol. \n propofol is under the class of illegal drugs.", "Statement": "John is under an illegal drug", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the pressure is on me. \n I am on a call with my father.", "Statement": "the pressure is on a call with my father", "Label": "no", "type": "metaphorical"}
+{"Premise": "the pressure is on my project. \n my project is on sustainability.", "Statement": "the pressure is on a sustainability project", "Label": "yes", "type": "metaphorical"}
+{"Premise": "my children are in a gifted education program. \n gifted education programs are in the public consultations.", "Statement": "my children are in the public consultations", "Label": "no", "type": "metaphorical"}
+{"Premise": "my children are in the park. \n the park is in the neighbourhood.", "Statement": "my children are in the neighbourhood", "Label": "yes", "type": "physical"}
+{"Premise": "the storm is in the city. \n the city is under fire.", "Statement": "the storm is under fire", "Label": "no", "type": "mixed"}
+{"Premise": "the engine is in the car. \n the car is under fire.", "Statement": "the engine is under fire", "Label": "yes", "type": "mixed"}
+{"Premise": "the medical device is under the patient. \n the patient is under sedation.", "Statement": "the medical device is under sedation", "Label": "no", "type": "mixed"}
+{"Premise": "the medical device is under the chair. \n the chair is under the table.", "Statement": "the medical device is under the table", "Label": "yes", "type": "physical"}
+{"Premise": "he is under the belief that mammoths still exist. \n the belief that mammoths still exist is in the documentary.", "Statement": "he was in the documentary", "Label": "no", "type": "metaphorical"}
+{"Premise": "he is under the large tent. \n the large tent is in the marshes.", "Statement": "he is in the marshes", "Label": "yes", "type": "physical"}
+{"Premise": "the typos are in the proposal. \n the proposal is under consideration.", "Statement": "the typos are under consideration", "Label": "no", "type": "mixed"}
+{"Premise": "the ideas are in the proposal. \n the proposal is under consideration.", "Statement": "the ideas are under consideration", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the scarf is on me. \n I work under difficult conditions.", "Statement": "the scarf is under difficult conditions", "Label": "no", "type": "mixed"}
+{"Premise": "the scarf is on me. \n I am under a bridge.", "Statement": "the scarf is under a bridge", "Label": "yes", "type": "physical"}
+{"Premise": "I am on a hike. \n the hike is under three hours.", "Statement": "I am under three hours", "Label": "no", "type": "mixed"}
+{"Premise": "I am on a hike. \n the hike is under a canyon.", "Statement": "I am under a canyon", "Label": "yes", "type": "physical"}
+{"Premise": "my dog is with my friend. \n my friend is in charge.", "Statement": "the dog is in charge", "Label": "no", "type": "mixed"}
+{"Premise": "my dog is with my friend. \n my friend is in my hometown.", "Statement": "my dog is in my hometown", "Label": "yes", "type": "physical"}
+{"Premise": "the pressure is on Julie. \n Julie was born under the Leo sign.", "Statement": "the pressure is under the Leo sign", "Label": "no", "type": "metaphorical"}
+{"Premise": "the box is on a chair. \n the chair is under a desk.", "Statement": "the box is under a desk", "Label": "yes", "type": "physical"}
+{"Premise": "the responsibility is on the administrator. \n the administrator is under pressure.", "Statement": "the responsibility is under pressure", "Label": "no", "type": "metaphorical"}
+{"Premise": "the cat is on a sofa. \n the sofa is under an arcade.", "Statement": "the cat is under an arcade", "Label": "yes", "type": "physical"}
+{"Premise": "the pressure is on the writers. \n the writers are on vacation.", "Statement": "the pressure is on vacation", "Label": "no", "type": "metaphorical"}
+{"Premise": "the writers are on a boat. \n the boat is on the Northern Sea.", "Statement": "the writers are on the Northern Sea", "Label": "yes", "type": "physical"}
+{"Premise": "our confidence is in this project. \n this project is on track.", "Statement": "our confidence is on track", "Label": "no", "type": "metaphorical"}
+{"Premise": "the analysis is in the project. \n the project is on track.", "Statement": "the analysis is on track", "Label": "yes", "type": "metaphorical"}
+{"Premise": "a black cat is in the joke. \n the joke is on you.", "Statement": "a black cat is on you", "Label": "no", "type": "metaphorical"}
+{"Premise": "there is black humour in the joke. \n the joke is on tv.", "Statement": "there is black humour on tv", "Label": "yes", "type": "mixed"}
+{"Premise": "the lecture is on the flu virus. \n the flu virus is in the South.", "Statement": "the lecture is in the South", "Label": "no", "type": "mixed"}
+{"Premise": "ash is on volcanoes. \n volcanoes are in the South.", "Statement": "ash is in the South", "Label": "yes", "type": "physical"}
+{"Premise": "the doctor is on the committee. \n the committee is in complete form.", "Statement": "the doctor is in complete form", "Label": "no", "type": "metaphorical"}
+{"Premise": "the witch is on the broom. \n the broom is in the jungle.", "Statement": "the witch is in the jungle", "Label": "yes", "type": "physical"}
+{"Premise": "Roman is on duty. \n duty is in his blood.", "Statement": "Roman is in his blood", "Label": "no", "type": "metaphorical"}
+{"Premise": "Roman is on duty. \n the duty is in the army.", "Statement": "Roman is in the army", "Label": "yes", "type": "metaphorical"}
+{"Premise": "I am on antibiotics. \n the antibiotics are on the bed.", "Statement": "I am on the bed", "Label": "no", "type": "mixed"}
+{"Premise": "I am on the sofa. \n the sofa is on the first floor.", "Statement": "I am on the first floor", "Label": "yes", "type": "physical"}
+{"Premise": "the picture is in the album. \n the album is on the list of our best albums.", "Statement": "the picture is on the list of our best albums", "Label": "no", "type": "mixed"}
+{"Premise": "the picture is in the folder. \n the folder is on the hard drive.", "Statement": "the picture is on the hard drive", "Label": "yes", "type": "physical"}
+{"Premise": "the picture is in the security department. \n the security department is on strike.", "Statement": "the picture is on strike", "Label": "no", "type": "mixed"}
+{"Premise": "her secrets are in that folder. \n that folder is on the usb stick.", "Statement": "her secrets are on the usb stick", "Label": "yes", "type": "physical"}
+{"Premise": "the rug is under the dog. \n the dog is under my protection.", "Statement": "the rug is under my protection", "Label": "no", "type": "mixed"}
+{"Premise": "the rug is under the dog. \n the dog is under the table.", "Statement": "the rug is under the table", "Label": "yes", "type": "physical"}
+{"Premise": "the credit card is under the passport. \n the passport is under a false name.", "Statement": "the credit card is under a false name", "Label": "no", "type": "mixed"}
+{"Premise": "the credit card is under the passport. \n the passport is under a fake painting.", "Statement": "the credit card is under a fake painting", "Label": "yes", "type": "mixed"}
+{"Premise": "the watch is under the CD. \n the CD is under the value of the coupon.", "Statement": "the watch is under the value of the coupon", "Label": "no", "type": "mixed"}
+{"Premise": "the watch is under the CD. \n the CD is under the statue.", "Statement": "the watch is under the statue", "Label": "yes", "type": "physical"}
+{"Premise": "the doll is behind the curtain. \n the curtain is behind many of our arguments about design.", "Statement": "the doll is behind many of our arguments about design", "Label": "no", "type": "mixed"}
+{"Premise": "the doll is behind the curtain. \n the curtain is behind the desk.", "Statement": "the doll is behind the desk", "Label": "yes", "type": "physical"}
+{"Premise": "the company is behind this transaction. \n this transaction is behind others in the processing queue.", "Statement": "the company is behind others in the processing queue", "Label": "no", "type": "mixed"}
+{"Premise": "the company is behind this transaction. \n this transaction is behind the latest controversies.", "Statement": "the company is behind the latest controversies", "Label": "yes", "type": "mixed"}
+{"Premise": "the flower pot is above the desk. \n the desk is above my expectations.", "Statement": "the flower pot is above my expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the flower pot is above the desk. \n the desk is above the ground.", "Statement": "the flower pot is above the ground", "Label": "yes", "type": "physical"}
+{"Premise": "your personality is reflected in the response quality. \n the response quality is above chance .", "Statement": "your personality is above chance", "Label": "no", "type": "metaphorical"}
+{"Premise": "the vase reflection is in the mirror. \n the mirror is above the table.", "Statement": "the vase reflection is above the table", "Label": "yes", "type": "physical"}
+{"Premise": "Anna is in love. \n love is above all other feelings.", "Statement": "Anna is above all other feelings", "Label": "no", "type": "metaphorical"}
+{"Premise": "the brush is in the cabinet. \n the cabinet is above the sink.", "Statement": "the brush is above the sink", "Label": "yes", "type": "physical"}
+{"Premise": "the mirror is above Jodie. \n Jodie is above age three.", "Statement": "the mirror is above age three", "Label": "no", "type": "mixed"}
+{"Premise": "the mirror is above Jodie. \n Jodie is above a garden.", "Statement": "the mirror is above a garden", "Label": "yes", "type": "physical"}
+{"Premise": "the policeman is on the train. \n the train is above expectations.", "Statement": "the policeman is above expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the jacket is on the shelf. \n the shelf is above the cabinet.", "Statement": "the jacket is above the cabinet", "Label": "yes", "type": "physical"}
+{"Premise": "my ankle is in pain. \n the pain is above any bearable threshold.", "Statement": "my ankle is above any bearable threshold", "Label": "no", "type": "metaphorical"}
+{"Premise": "an apple is in the box. \n the box is above the piano.", "Statement": "an apple is above the piano", "Label": "yes", "type": "physical"}
+{"Premise": "the lettuce is above the peas. \n the peas are in great demand.", "Statement": "the lettuce is above great demand", "Label": "no", "type": "mixed"}
+{"Premise": "the ice cream is above the peas. \n the peas are in the second box.", "Statement": "the ice cream is above the second box", "Label": "yes", "type": "physical"}
+{"Premise": "the painting is above the piano. \n the piano is in ruins.", "Statement": "the painting is in ruins", "Label": "no", "type": "physical"}
+{"Premise": "the painting is above the piano. \n the piano is in the hotel room.", "Statement": "the painting is in the hotel room", "Label": "yes", "type": "physical"}
+{"Premise": "the stars are above the lake. \n the lake is above my expectations.", "Statement": "the stars are above my expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the eyes are above the nose. \n the nose is above the mouth.", "Statement": "the eyes are above the mouth", "Label": "yes", "type": "physical"}
+{"Premise": "the tree is under the Milky Way. \n the Milky Way is under the attention of astronomers.", "Statement": "the tree is under the attention of astronomers", "Label": "no", "type": "mixed"}
+{"Premise": "the mouth is under the nose. \n the nose is under the eyes.", "Statement": "the mouth is under the eyes", "Label": "yes", "type": "physical"}
+{"Premise": "the signature is above the grade. \n the grade is above our expectations.", "Statement": "the signature is above our expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the triangle is above the circle. \n the circle is above the square.", "Statement": "the triangle is above the square", "Label": "yes", "type": "physical"}
+{"Premise": "the date is under the signature. \n the signature is under verification.", "Statement": "the date is under verification", "Label": "no", "type": "mixed"}
+{"Premise": "the circle is under the triangle. \n the triangle is under the square.", "Statement": "the circle is under the square", "Label": "yes", "type": "physical"}
+{"Premise": "the helmet is above the scooter. \n the scooter is above my pay.", "Statement": "the helmet is above my pay", "Label": "no", "type": "mixed"}
+{"Premise": "the helmet is above the scooter. \n the scooter is above the parking lot.", "Statement": "the helmet is above the parking lot", "Label": "yes", "type": "physical"}
+{"Premise": "the notebook is under the schedule. \n the schedule is under five hours.", "Statement": "the notebook is under five hours", "Label": "no", "type": "metaphorical"}
+{"Premise": "the fork is under the table cloth. \n the table cloth is under the towel.", "Statement": "the fork is under the towel", "Label": "yes", "type": "physical"}
+{"Premise": "the lamp is above the bench. \n the bench is above average.", "Statement": "the lamp is above average", "Label": "no", "type": "mixed"}
+{"Premise": "grade A is above grade B. \n grade B is above grade C.", "Statement": "grade A is above grade C", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the chinchillas are under the birds. \n the birds are under the headmaster's protection.", "Statement": "the chinchillas are under the headmaster's protection", "Label": "no", "type": "mixed"}
+{"Premise": "grade F is under grade C. \n grade C is under grade B.", "Statement": "grade F is under grade B", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the infographic is above the article. \n the article is above my knowledge.", "Statement": "the infographic is above my knowledge", "Label": "no", "type": "mixed"}
+{"Premise": "grade A is above grade B. \n grade B is above my teacher's expectations.", "Statement": "grade A is above my teacher's expectations", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the bed is under the teacher. \n the teacher is under anaesthesia.", "Statement": "the bed is under anaesthesia", "Label": "no", "type": "mixed"}
+{"Premise": "grade D is under grade C. \n grade C is under the threshold.", "Statement": "grade D is under the threshold", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the mug is on the shelf. \n the shelf is above ten years old.", "Statement": "the mug is above ten years old", "Label": "no", "type": "mixed"}
+{"Premise": "the mug is on the shelf. \n the shelf is above the cooker.", "Statement": "the mug is above the cooker", "Label": "yes", "type": "physical"}
+{"Premise": "the robot is above the mirror. \n the mirror is on my mind.", "Statement": "the robot is above my mind", "Label": "no", "type": "mixed"}
+{"Premise": "the robot is above the mirror. \n the mirror is on the desk.", "Statement": "the robot is above the desk", "Label": "yes", "type": "physical"}
+{"Premise": "the horses are in the vehicle. \n the vehicle is under repair.", "Statement": "the horses are under repair", "Label": "no", "type": "physical"}
+{"Premise": "the horses are in the vehicle. \n the vehicle is under the bridge.", "Statement": "the horses are under the bridge", "Label": "yes", "type": "physical"}
+{"Premise": "the backpacks are in the plane. \n the plane is under repair.", "Statement": "the backpacks are under repair", "Label": "no", "type": "physical"}
+{"Premise": "the backpacks are in the plane. \n the plane is under the sea.", "Statement": "the backpacks are under the sea", "Label": "yes", "type": "physical"}
+{"Premise": "the latest invention is behind the project. \n the project is months behind schedule.", "Statement": "the latest invention is behind schedule", "Label": "no", "type": "metaphorical"}
+{"Premise": "the project file is behind the table. \n the table is behind the door.", "Statement": "the project file is behind the door", "Label": "yes", "type": "physical"}
+{"Premise": "a teen wearing blue trousers is behind the man wearing a red shirt. \n the man wearing a red shirt is behind the terrorist attacks over the last years.", "Statement": "a teen wearing blue trousers is behind the terrorist attacks over the last years", "Label": "no", "type": "mixed"}
+{"Premise": "a charlatan is behind the ghost. \n the ghost is behind the murders.", "Statement": "a charlatan is behind the murders", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the pressure is on the woman. \n the woman is at lunch.", "Statement": "the pressure is at lunch", "Label": "no", "type": "mixed"}
+{"Premise": "the skirt is on the mannequin. \n the mannequin is at my friend's shop.", "Statement": "the skirt is at my friend's shop", "Label": "yes", "type": "physical"}
+{"Premise": "the book is at my friend's place. \n my friend's place is above expectations.", "Statement": "the book is above expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the book is at my friend's place. \n my friend's place is above the pharmacy.", "Statement": "the book is above the pharmacy", "Label": "yes", "type": "physical"}
+{"Premise": "his talent is at tennis. \n tennis is behind the nation's latest fashion trends.", "Statement": "his talent is behind the nations' latest fashion trends", "Label": "no", "type": "mixed"}
+{"Premise": "his talent is at tennis. \n tennis is behind his popularity.", "Statement": "his talent is behind is popularity", "Label": "yes", "type": "metaphorical"}
+{"Premise": "my aunt is at work. \n her work is at an all-time high.", "Statement": "my aunt is at an all-time high", "Label": "no", "type": "metaphorical"}
+{"Premise": "my aunt is at work. \n her work is at King's Cross.", "Statement": "my aunt is at King's Cross", "Label": "yes", "type": "mixed"}
+{"Premise": "the vote is on the reform. \n the reform is at an inflexion point.", "Statement": "the vote is at an inflexion point", "Label": "no", "type": "mixed"}
+{"Premise": "the case is on the golden table. \n the golden table is at the mayor's house.", "Statement": "the case is at the mayor's house", "Label": "yes", "type": "physical"}
+{"Premise": "the doctor is at the theatre. \n the theatre is on fire.", "Statement": "the doctor is on fire", "Label": "no", "type": "mixed"}
+{"Premise": "the doctor is at the theatre. \n the theatre is on a mountain.", "Statement": "the doctor is on a mountain", "Label": "yes", "type": "physical"}
+{"Premise": "the nurse is at the concert. \n the concert is at an exorbitant price.", "Statement": "the nurse is at a exorbitant price", "Label": "no", "type": "mixed"}
+{"Premise": "the nurse is at the concert. \n the concert is at the seaside.", "Statement": "the nurse is at the seaside", "Label": "yes", "type": "physical"}
+{"Premise": "the picture is behind my mother. \n my mother is at ease.", "Statement": "the picture is at ease", "Label": "no", "type": "mixed"}
+{"Premise": "the old lady is behind my mother. \n my mother is at the museum.", "Statement": "the old lady is at the museum", "Label": "yes", "type": "physical"}
+{"Premise": "the girl is at the event. \n the event is above our expectations.", "Statement": "the girl is above our expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the girl is at the event. \n the event is above the lake.", "Statement": "the girl is above the lake", "Label": "yes", "type": "physical"}
+{"Premise": "the umbrella is above the worm. \n the worm is above average size.", "Statement": "the umbrella is above average size", "Label": "no", "type": "mixed"}
+{"Premise": "the umbrella is above the worm. \n the worm is above the ground.", "Statement": "the umbrella is above the ground", "Label": "yes", "type": "physical"}
+{"Premise": "the bat is above the policeman. \n the policeman is above suspicion.", "Statement": "the bat is above suspicion", "Label": "no", "type": "mixed"}
+{"Premise": "the bat is above the policeman. \n the policeman is above the ground floor.", "Statement": "the bat is above the ground floor", "Label": "yes", "type": "physical"}
+{"Premise": "the net is above the deer. \n the deer is at bay.", "Statement": "the net is at bay", "Label": "no", "type": "mixed"}
+{"Premise": "the net is above the deer. \n the deer is at the edge of the forest.", "Statement": "the net is at the edge of the forest", "Label": "yes", "type": "physical"}
+{"Premise": "the latest update is behind the offer. \n the offer is at face value.", "Statement": "the latest update is at face value", "Label": "no", "type": "mixed"}
+{"Premise": "the latest newspaper is behind the blue box. \n the blue box is at my place.", "Statement": "the latest newspaper is at my place", "Label": "yes", "type": "physical"}
+{"Premise": "the interest of the country is behind the negotiation. \n the negotiation is behind closed doors.", "Statement": "the interest of the country is behind closed doors", "Label": "no", "type": "metaphorical"}
+{"Premise": "the interest of the country is behind the latest reform. \n the latest reform is behind the salary raises.", "Statement": "the interest of the country is behind the salary raises", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the coat is behind the wardrobe. \n the wardrobe is in a really bad condition.", "Statement": "the coat is in a really bad condition", "Label": "no", "type": "mixed"}
+{"Premise": "the coat is behind the wardrobe. \n the wardrobe is in a really bad hotel.", "Statement": "the coat is in a really bad hotel", "Label": "yes", "type": "mixed"}
+{"Premise": "the sun is behind the trees. \n the trees are behind his love for the countryside.", "Statement": "the sun is behind his love for the countryside", "Label": "no", "type": "mixed"}
+{"Premise": "the sun is behind the trees. \n the trees are behind the house.", "Statement": "the sun is behind the house", "Label": "yes", "type": "physical"}
+{"Premise": "Venus is behind the Moon. \n the Moon is behind my mood changes.", "Statement": "Venus is behind my mood changes", "Label": "no", "type": "mixed"}
+{"Premise": "Venus is behind the Moon. \n the Moon is behind the hill.", "Statement": "Venus is behind the hill", "Label": "yes", "type": "physical"}
+{"Premise": "the canary is above the fireplace. \n the fireplace is behind the times.", "Statement": "the canary is behind the times", "Label": "no", "type": "mixed"}
+{"Premise": "the canary is above the fireplace. \n the fireplace is behind the kitchen.", "Statement": "the canary is behind the kitchen", "Label": "yes", "type": "physical"}
+{"Premise": "the house is above my expectations. \n my expectations are behind my desire for a better job.", "Statement": "the house is behind my desire to get a better job", "Label": "no", "type": "mixed"}
+{"Premise": "the balcony is above the garden. \n the garden is behind the forest.", "Statement": "the balcony is behind the forest", "Label": "yes", "type": "physical"}
+{"Premise": "the hotel is under my expectations. \n my expectations are behind my push for a longer vacation.", "Statement": "the hotel is behind my push for a longer vacation", "Label": "no", "type": "mixed"}
+{"Premise": "the hotel is under the blue bridge. \n the blue bridge is behind the parliament building.", "Statement": "the hotel is behind the parliament building", "Label": "yes", "type": "physical"}
+{"Premise": "my rent is above my monthly salary. \n my monthly salary is above a professor.", "Statement": "my rent is above a professor", "Label": "no", "type": "metaphorical"}
+{"Premise": "the rent is above my monthly salary. \n my monthly salary is above the mean salary.", "Statement": "the rent is above the mean salary", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the cost of the trip is above my monthly salary. \n my monthly salary is under review.", "Statement": "the cost of the trip is under review", "Label": "no", "type": "metaphorical"}
+{"Premise": "the canary is above the sofa. \n the sofa is under the cloudless sky.", "Statement": "the canary is under the cloudless sky", "Label": "yes", "type": "physical"}
+{"Premise": "the garage is behind the hotel. \n the hotel is under construction.", "Statement": "the garage is under construction", "Label": "no", "type": "physical"}
+{"Premise": "the garage is behind the hotel. \n the hotel is under the hill.", "Statement": "the garage is under the hill", "Label": "yes", "type": "physical"}
+{"Premise": "the garden is behind the house. \n the house is under the arch.", "Statement": "the garden is under the arch", "Label": "no", "type": "physical"}
+{"Premise": "the garden is behind the house. \n the house is under the cloudy skies of California.", "Statement": "the garden is under the cloudy skies of California", "Label": "yes", "type": "physical"}
+{"Premise": "her thoughts are with her brother. \n her brother is under surveillance.", "Statement": "her thoughts are under surveillance", "Label": "no", "type": "metaphorical"}
+{"Premise": "her brother is with her grandmother. \n her grandmother is under the ground floor.", "Statement": "her brother is under the ground floor", "Label": "yes", "type": "mixed"}
+{"Premise": "the pressure is on her brother. \n her brother is under the control of his video games addiction.", "Statement": "the pressure is under the control of his video games addiction", "Label": "no", "type": "metaphorical"}
+{"Premise": "the hat is on her brother. \n her brother is under the football poster.", "Statement": "the hat is under the football poster", "Label": "yes", "type": "mixed"}
+{"Premise": "the joke is on the teacher. \n the teacher is on pain medicine.", "Statement": "the joke is on pain medicine", "Label": "no", "type": "metaphorical"}
+{"Premise": "a burger is on the menu. \n the menu is on my wishlist.", "Statement": "a burger is on my wishlist", "Label": "yes", "type": "mixed"}
+{"Premise": "the tree is behind the house. \n the house is on fire.", "Statement": "the tree is on fire", "Label": "no", "type": "mixed"}
+{"Premise": "the tree is behind the house. \n the house is on the island.", "Statement": "the tree is on the island", "Label": "yes", "type": "physical"}
+{"Premise": "the bird is on the Christmas tree. \n the Christmas tree is under redecoration.", "Statement": "the bird is under redecoration", "Label": "no", "type": "mixed"}
+{"Premise": "the bird is on the Christmas tree. \n the Christmas tree is under the archway.", "Statement": "the bird is under the archway", "Label": "yes", "type": "physical"}
+{"Premise": "the article is on the riot. \n the riot is under control.", "Statement": "the article is under control", "Label": "no", "type": "metaphorical"}
+{"Premise": "the article is on the sideboard. \n the sideboard is under the TV.", "Statement": "the article is under the TV", "Label": "yes", "type": "physical"}
+{"Premise": "the young pupil is behind the rumour. \n the rumour is behind her back.", "Statement": "the young pupil is behind her back", "Label": "no", "type": "mixed"}
+{"Premise": "the young pupil is behind the teacher. \n the teacher is behind the desk.", "Statement": "the young pupil is behind the desk", "Label": "yes", "type": "physical"}
+{"Premise": "the dog is on the carpet. \n the carpet is above average.", "Statement": "the dog is above average", "Label": "no", "type": "mixed"}
+{"Premise": "the cat is on the carpet. \n the carpet is above the floor.", "Statement": "the cat is above the floor", "Label": "yes", "type": "physical"}
+{"Premise": "the house of the president is behind the parliament. \n the parliament is behind the latest controversy.", "Statement": "the house of the president is behind the latest controversy", "Label": "no", "type": "mixed"}
+{"Premise": "the house of the president is behind the parliament. \n the parliament is behind the park.", "Statement": "the house of the president is behind the park", "Label": "yes", "type": "physical"}
+{"Premise": "the CEO is at the congress. \n the congress is on a good path.", "Statement": "the CEO is on a good path", "Label": "no", "type": "mixed"}
+{"Premise": "the CEO is at the congress. \n the congress is on the rooftop terrace.", "Statement": "the CEO is on the rooftop terrace", "Label": "yes", "type": "physical"}
+{"Premise": "the architect is at the hotel. \n the hotel is at risk of being declared illegal.", "Statement": "the architect is at risk of being declared illegal", "Label": "no", "type": "mixed"}
+{"Premise": "the architect is at the seaside. \n the seaside is at the other end of the country.", "Statement": "the architect is at the other end of the country", "Label": "yes", "type": "physical"}
+{"Premise": "the fire is at my friend's place. \n my friend's place is under renovations.", "Statement": "the fire is under renovations", "Label": "no", "type": "physical"}
+{"Premise": "the lantern is at my friend's place. \n my friend's place is under the mausoleum.", "Statement": "the lantern is under the mausoleum", "Label": "yes", "type": "physical"}
+{"Premise": "the parrot is above the patient. \n the patient is at peace.", "Statement": "the parrot is at peace", "Label": "no", "type": "mixed"}
+{"Premise": "the parrot is above the patient. \n the patient is at the hospital.", "Statement": "the parrot is at the hospital", "Label": "yes", "type": "physical"}
+{"Premise": "the baker is at the pharmacy. \n the pharmacy is above my doctor's expectations.", "Statement": "the baker is above my doctor's expectations", "Label": "no", "type": "mixed"}
+{"Premise": "the baker is at the pharmacy. \n the pharmacy is above the supermarket.", "Statement": "the baker is above the supermarket", "Label": "yes", "type": "physical"}
+{"Premise": "my friend is at the opera. \n the opera is behind the latest cultural outreach efforts.", "Statement": "my friend is behind the latest cultural outreach efforts", "Label": "no", "type": "mixed"}
+{"Premise": "my friend is at the opera. \n the opera is behind the city square.", "Statement": "my friend is behind the city square", "Label": "yes", "type": "physical"}
+{"Premise": "my salary is above your salary. \n your salary is in the newspaper.", "Statement": "my salary is above the newspaper", "Label": "no", "type": "mixed"}
+{"Premise": "my coffee is above your stamps. \n your stamps are in the envelope.", "Statement": "my coffee is above the envelope", "Label": "yes", "type": "physical"}
+{"Premise": "the hospital is above the historical site. \n the historical site is on the agenda.", "Statement": "the hospital is above the agenda", "Label": "no", "type": "mixed"}
+{"Premise": "the seagull is above the doctor. \n the doctor is on the ship.", "Statement": "the seagull is above the ship", "Label": "yes", "type": "physical"}
+{"Premise": "the reform is under the influence of the dean. \n the influence of the dean is behind her fears of joining the university.", "Statement": "the reform is behind her fears of joining the university", "Label": "no", "type": "metaphorical"}
+{"Premise": "the key is under the dress. \n the dress is behind the chair.", "Statement": "the key is behind the chair", "Label": "yes", "type": "physical"}
+{"Premise": "the girl is at the art gallery. \n the art gallery is under attack from the tabloid press.", "Statement": "the girl is under attack from the tabloid press", "Label": "no", "type": "mixed"}
+{"Premise": "the girl is at the art gallery. \n the art gallery is under the winery.", "Statement": "the girl is under the winery", "Label": "yes", "type": "physical"}
+{"Premise": "the bad economy is behind the withdrawal of the international banks. \n the withdrawal of the international banks is on the list of notable events this year.", "Statement": "the bad economy is on the list of notable events this year", "Label": "no", "type": "metaphorical"}
+{"Premise": "the latest drawing is behind my father's computer. \n my father's computer is on the top floor.", "Statement": "the latest drawing is on the top floor", "Label": "yes", "type": "physical"}
+{"Premise": "the carpet is under the old furniture. \n the old furniture is behind my grandmother's disapproval of the house.", "Statement": "the carpet is behind my grandmother's disapproval for the house", "Label": "no", "type": "mixed"}
+{"Premise": "the carpet is under the old furniture. \n the old furniture is behind the red door.", "Statement": "the carpet is behind the red door", "Label": "yes", "type": "physical"}
+{"Premise": "the city is under fire. \n the fire is behind the latest alerts.", "Statement": "the city is behind the latest alerts", "Label": "no", "type": "metaphorical"}
+{"Premise": "the library is under the university. \n the university is behind the old school.", "Statement": "the library is behind the old school", "Label": "yes", "type": "physical"}
+{"Premise": "the headmaster is behind my decision to stay. \n my decision to stay is on my father's mind.", "Statement": "the headmaster is on my father's mind", "Label": "no", "type": "metaphorical"}
+{"Premise": "the teacher is behind the pupils. \n the pupils are on the school grounds.", "Statement": "the teacher is on the school grounds", "Label": "yes", "type": "physical"}
+{"Premise": "the book is with the boy. \n the boy is on the clock.", "Statement": "the book is on the clock", "Label": "no", "type": "mixed"}
+{"Premise": "the boy is with his mother. \n his mother is on the train.", "Statement": "the boy is on the train", "Label": "yes", "type": "physical"}
+{"Premise": "the economy is in recession. \n the recession is on the path to an end.", "Statement": "the economy is on the path to an end", "Label": "no", "type": "metaphorical"}
+{"Premise": "the economy is in recession. \n the recession is on an upward trend.", "Statement": "the economy is on an upward trend", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the book is in the library. \n the library is on the campus map.", "Statement": "the book is on the campus map", "Label": "no", "type": "mixed"}
+{"Premise": "the library is in the city. \n the city is on the hill.", "Statement": "the library is on the hill", "Label": "yes", "type": "physical"}
+{"Premise": "a general is above a captain. \n the captain is at the meeting room.", "Statement": "the general is above the meeting room", "Label": "no", "type": "mixed"}
+{"Premise": "the train line is above the captain. \n the captain is at the meeting room.", "Statement": "the train line is above the meeting room", "Label": "yes", "type": "mixed"}
+{"Premise": "I am under the weather. \n the weather is on the radio.", "Statement": "I am on the radio", "Label": "no", "type": "mixed"}
+{"Premise": "the subtitle is under the film. \n the film is on TV.", "Statement": "the subtitle is on TV", "Label": "yes", "type": "physical"}
+{"Premise": "the two parties are behind the talks. \n the talks are behind closed doors.", "Statement": "the two parties are behind closed doors", "Label": "no", "type": "mixed"}
+{"Premise": "the closed doors are behind the entrance. \n the entrance is behind the station.", "Statement": "the closed doors are behind the station", "Label": "yes", "type": "physical"}
+{"Premise": "John is behind in the race. \n the race is in the afternoon.", "Statement": "John is behind the afternoon", "Label": "no", "type": "metaphorical"}
+{"Premise": "the fire extinguisher is behind the monitor. \n the monitor is in a box.", "Statement": "the fire extinguisher is behind a box", "Label": "yes", "type": "physical"}
+{"Premise": "the sun is behind the trees. \n the trees are in his imagination.", "Statement": "the sun is behind his imagination", "Label": "no", "type": "mixed"}
+{"Premise": "the flower pot is behind the letter. \n the letter is in an envelope.", "Statement": "the flower pot is behind an envelope", "Label": "yes", "type": "physical"}
+{"Premise": "the hill is above the house. \n the house is above my price range.", "Statement": "the hill is above my price range", "Label": "no", "type": "mixed"}
+{"Premise": "the hill is above my house. \n my house is above the creek.", "Statement": "the hill is above the creek", "Label": "yes", "type": "physical"}
+{"Premise": "the hotel is at my expectations. \n my expectations are behind my push for a higher salary.", "Statement": "the hotel is behind my push for a higher salary", "Label": "no", "type": "metaphorical"}
+{"Premise": "the hotel is at the tram station. \n the tram station is behind the town hall.", "Statement": "the hotel is behind the town hall", "Label": "yes", "type": "physical"}
+{"Premise": "the patient is in the hospital. \n the hospital is under the county.", "Statement": "the patient is under the county", "Label": "no", "type": "mixed"}
+{"Premise": "the patient is in the hospital. \n the hospital is under the train station.", "Statement": "the patient is under the train station", "Label": "yes", "type": "physical"}
+{"Premise": "the cost of the trip is above my travel allowance. \n my travel allowance is under revision.", "Statement": "the cost of the trip is under revision", "Label": "no", "type": "metaphorical"}
+{"Premise": "the birdview terrace is above the hotel. \n the hotel is under the southmost corner of Ohio.", "Statement": "the birdview terrace is under the southmost corner of Ohio", "Label": "yes", "type": "physical"}
+{"Premise": "the library is behind the math building. \n the math building is under renovation.", "Statement": "the library is under renovation", "Label": "no", "type": "physical"}
+{"Premise": "the math building is behind the library. \n the library is under the campus parking level.", "Statement": "the math building is under the campus parking level", "Label": "yes", "type": "physical"}
+{"Premise": "the cat is in the library. \n the library is in a deplorable state.", "Statement": "the cat is in a deplorable state", "Label": "no", "type": "mixed"}
+{"Premise": "the garden is in the house. \n the house is in the building.", "Statement": "the garden is in the building", "Label": "yes", "type": "physical"}
+{"Premise": "the bench is under the bridge. \n the bridge is under construction.", "Statement": "the bench is under construction", "Label": "no", "type": "physical"}
+{"Premise": "the bench is under the bridge. \n the bridge is under San Francisco.", "Statement": "the bench is under San Francisco", "Label": "yes", "type": "physical"}
+{"Premise": "the painting is above the garden. \n the garden is behind my need for a hobby.", "Statement": "the painting is behind my need for a hobby", "Label": "no", "type": "mixed"}
+{"Premise": "the painting is above the garden. \n the garden is behind the house.", "Statement": "the painting is behind the house", "Label": "yes", "type": "physical"}
+{"Premise": "the joke is on him. \n he is on the go.", "Statement": "the joke is on the go", "Label": "no", "type": "metaphorical"}
+{"Premise": "the weather report is on the news program. \n the news program is on TV.", "Statement": "the weather report is on TV", "Label": "yes", "type": "physical"}
+{"Premise": "Arthur is behind Anne's request. \n Anne's request is behind the table.", "Statement": "Arthur is behind the table", "Label": "no", "type": "mixed"}
+{"Premise": "John is behind Bill in intelligence. \n Bill is behind Mary in intelligence.", "Statement": "John is behind Mary in intelligence", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the birdview terrace is above my standards. \n my standards are under reconsideration.", "Statement": "the birdview terrace is above reconsideration", "Label": "no", "type": "metaphorical"}
+{"Premise": "the Moon is above my window. \n my window is under the roof.", "Statement": "the Moon is above the roof", "Label": "yes", "type": "physical"}
+{"Premise": "the cost of the journey is under her pupil's allowance. \n her pupil's allowance is under the city regulations.", "Statement": "the cost of the journey is under the city regulations", "Label": "no", "type": "metaphorical"}
+{"Premise": "the cost of the trip is under my travel allowance. \n my travel allowance is under my salary.", "Statement": "the cost of the trip is under my salary", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the train is above the mechanic. \n the mechanic is at work.", "Statement": "the train is above work", "Label": "no", "type": "mixed"}
+{"Premise": "the train seats are above my expectations. \n my expectations are at a medium standard.", "Statement": "the train seats are above a medium standard", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the city is above my standards. \n my standards are at a state of change.", "Statement": "the city is above a state of change", "Label": "no", "type": "metaphorical"}
+{"Premise": "the city is above the sea level. \n the sea level is at 50 meters.", "Statement": "the city is above 50 meters", "Label": "yes", "type": "physical"}
+{"Premise": "the theatre is above the school. \n the school is above the expectations of my parents.", "Statement": "the theatre is above the expectation of my parents", "Label": "no", "type": "mixed"}
+{"Premise": "the theatre is above the school. \n the school is above the mine.", "Statement": "the theatre is above the mine", "Label": "yes", "type": "physical"}
+{"Premise": "the plane is above the city. \n the city is above par.", "Statement": "the plane is above par", "Label": "no", "type": "mixed"}
+{"Premise": "the plane is above the city. \n the city is above the lake.", "Statement": "the plane is above the lake", "Label": "yes", "type": "physical"}
+{"Premise": "the statue is above the desk. \n the desk is on fire.", "Statement": "the statue is on fire", "Label": "no", "type": "mixed"}
+{"Premise": "the statue is above the desk. \n the desk is on the boat.", "Statement": "the statue is on the boat", "Label": "yes", "type": "physical"}
+{"Premise": "the lamp is above the doctor. \n the doctor is on call.", "Statement": "the lamp is on call", "Label": "no", "type": "mixed"}
+{"Premise": "the lamp is above the doctor. \n the doctor is on the top floor.", "Statement": "the lamp is on the top floor", "Label": "yes", "type": "physical"}
+{"Premise": "the homework essay is on Slovakian poetry. \n Slovakian poetry is on par with Czech poetry.", "Statement": "the homework essay is on par with Czech poetry", "Label": "no", "type": "metaphorical"}
+{"Premise": "Italian poetry is on par with Greek poetry. \n Greek poetry is on par with Romanian poetry.", "Statement": "Italian poetry is on par with Romanian poetry", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the ducks are above the geese. \n the geese are above an acceptable loudness level.", "Statement": "the ducks are above an acceptable loudness level", "Label": "no", "type": "mixed"}
+{"Premise": "rationalists are above empiricists. \n empiricists are above skeptics.", "Statement": "rationalists are above skeptics", "Label": "yes", "type": "metaphorical"}
+{"Premise": "rationalists are on par with empiricists. \n empiricists are under critique.", "Statement": "rationalists are under critique", "Label": "no", "type": "metaphorical"}
+{"Premise": "the ducks are on the lake. \n the lake is under the cavern.", "Statement": "the ducks are under the cavern", "Label": "yes", "type": "physical"}
+{"Premise": "the letter is with the postman. \n the postman is at ease.", "Statement": "the letter is at ease", "Label": "no", "type": "mixed"}
+{"Premise": "the letter is with the postman. \n the postman is at the gate.", "Statement": "the letter is at the gate", "Label": "yes", "type": "physical"}
+{"Premise": "the car is behind the garage. \n the garage is in a new condition.", "Statement": "the car is in a new condition", "Label": "no", "type": "mixed"}
+{"Premise": "the car is behind the garage. \n the garage is in Israel.", "Statement": "the car is in Israel", "Label": "yes", "type": "physical"}
+{"Premise": "their support is behind the decision of the prime minister to resign. \n the decision of the prime minister to resign is in the newspaper.", "Statement": "their support is in the newspaper", "Label": "no", "type": "metaphorical"}
+{"Premise": "their dog is behind the house of the prime minister. \n the house of the prime minister is in the forest.", "Statement": "their dog is in the forest", "Label": "yes", "type": "physical"}
+{"Premise": "Carol is with Robert. \n Robert is under ten years old.", "Statement": "Carol is under ten years old", "Label": "no", "type": "mixed"}
+{"Premise": "Danny is with Sebastian. \n Sebastian is under the meadow.", "Statement": "Danny is under the meadow", "Label": "yes", "type": "physical"}
+{"Premise": "Adrian is with Noemi. \n Noemi is in shock.", "Statement": "Adrian is in shock", "Label": "no", "type": "mixed"}
+{"Premise": "Claire is with Emmanuel. \n Emmanuel is in the bunker.", "Statement": "Claire is in the bunker", "Label": "yes", "type": "physical"}
+{"Premise": "her deed is in the newspapers. \n the newspapers are under the sofa.", "Statement": "her deed is under the sofa", "Label": "no", "type": "mixed"}
+{"Premise": "her picture is in the newspapers. \n the newspapers are under the sofa.", "Statement": "her picture is under the sofa", "Label": "yes", "type": "mixed"}
+{"Premise": "the competition is in 2025. \n 2025 is in the news.", "Statement": "the competition is in the news", "Label": "no", "type": "metaphorical"}
+{"Premise": "the competition is in 2025. \n 2025 is in less than a decade.", "Statement": "the competition is in less than a decade", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the child is behind the tree. \n the tree is behind my request to water the garden.", "Statement": "the child is behind my request to water the garden", "Label": "no", "type": "mixed"}
+{"Premise": "the child is behind the tree. \n the tree is behind the pool in the garden.", "Statement": "the child is behind the pool in the garden", "Label": "yes", "type": "physical"}
+{"Premise": "mathematics is at an excellent level here. \n an excellent level here is above the expectations of the teachers.", "Statement": "mathematics is above the expectations of the teachers", "Label": "no", "type": "metaphorical"}
+{"Premise": "the hospital is at the level of the street. \n the level of the street is above the level of the sea.", "Statement": "the hospital is above the level of the sea", "Label": "yes", "type": "physical"}
+{"Premise": "her hope is with the green army. \n the green army is above suspicion.", "Statement": "her hope is above suspicion", "Label": "no", "type": "metaphorical"}
+{"Premise": "her bag is with the shopkeeper. \n the shopkeeper is above ground level .", "Statement": "her bag is above ground level", "Label": "yes", "type": "physical"}
+{"Premise": "the milkman is at the door. \n the door is at the verge of collapsing.", "Statement": "the milkman is at the verge of collapsing", "Label": "no", "type": "mixed"}
+{"Premise": "the payment is at the end of the lesson. \n the end of the lesson is at midnight.", "Statement": "the payment is at midnight", "Label": "yes", "type": "metaphorical"}
+{"Premise": "their stop is at the hospital. \n the hospital is behind their desire to change the law.", "Statement": "their stop is behind their desire to change the law", "Label": "no", "type": "mixed"}
+{"Premise": "their journey is at their great expense. \n their great expense is behind the latest loan.", "Statement": "their journey is behind the latest loan", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the lessons learned during childhood are behind their ability to cope. \n their ability to cope is at a low ebb.", "Statement": "the lessons learned during childhood are at a low ebb", "Label": "no", "type": "metaphorical"}
+{"Premise": "the books read during childhood are behind the counter. \n the counter is at the house of my grandmother.", "Statement": "the books read during childhood are at the house of my grandmother", "Label": "yes", "type": "physical"}
+{"Premise": "the hostel is above my expectations. \n my expectations are under revision.", "Statement": "the hostel is above revision", "Label": "no", "type": "metaphorical"}
+{"Premise": "the room is above my expectations. \n my expectations are under 10 square meters.", "Statement": "the room is above 10 square meters", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the professor's issue is with the meaning of the poem. \n the meaning of the poem is at the mind of the reader.", "Statement": "the professor's issue is at the mind of the reader", "Label": "no", "type": "metaphorical"}
+{"Premise": "the professor's mother is with her sister. \n her sister is at the market.", "Statement": "the professor's mother is at the market", "Label": "yes", "type": "physical"}
+{"Premise": "your gift is at the end of the course. \n the end of the course is at a snail's pace.", "Statement": "your gift is at a snail's pace", "Label": "no", "type": "mixed"}
+{"Premise": "the discourse is at the end of the lesson. \n the end of the lesson is at noon.", "Statement": "the discourse is at noon", "Label": "yes", "type": "metaphorical"}
+{"Premise": "the red proposal is under the blue proposal. \n the blue proposal is under revision.", "Statement": "the red proposal is under revision", "Label": "no", "type": "mixed"}
+{"Premise": "the red book is under the blue book. \n the blue book is under the green book.", "Statement": "the red book is under the green book", "Label": "yes", "type": "physical"}
+{"Premise": "the drone is above the market. \n the market is in ruins.", "Statement": "the drone is in ruins", "Label": "no", "type": "physical"}
+{"Premise": "the drone is above the market. \n the market is in the city.", "Statement": "the drone is in the city", "Label": "yes", "type": "physical"}
+{"Premise": "the report is with the doctor. \n the doctor is at a loss.", "Statement": "the report is at a loss", "Label": "no", "type": "mixed"}
+{"Premise": "the report is with the doctor. \n the doctor is at the hospital.", "Statement": "the report is at the hospital", "Label": "yes", "type": "physical"}
+{"Premise": "the girl is with her mother. \n her mother is at her wit's end.", "Statement": "the girl is at her wit's end", "Label": "no", "type": "mixed"}
+{"Premise": "the girl is with her mother. \n her mother is at the pharmacy.", "Statement": "the girl is at the pharmacy", "Label": "yes", "type": "physical"}
+{"Premise": "the boy is with the driver. \n the driver is at your service.", "Statement": "the boy is at your service", "Label": "no", "type": "mixed"}
+{"Premise": "the boy is with the driver. \n the driver is at your hotel.", "Statement": "the boy is at your hotel", "Label": "yes", "type": "physical"}
+{"Premise": "the girl is at lunch. \n lunch is on the table.", "Statement": "the girl is on the table", "Label": "no", "type": "physical"}
+{"Premise": "the girl is at lunch. \n lunch is on the terrace.", "Statement": "the girl is on the terrace", "Label": "yes", "type": "physical"}

@@ -6,7 +6,7 @@ This is the repository containing evaluation data, instructions and demonstratio
 
 <img width="1550" height="540" alt="ScreenShot_2025-10-01_180215_652" src="https://github.com/user-attachments/assets/097ad9e8-8d17-4717-9aa2-49826d278d62" />
 
-##### **Temporal Reasoning**##### **时间推理**
+##### **Temporal Reasoning**
 
 - TempNLI ([Thukral et al., 2021](https://aclanthology.org/2021.blackboxnlp-1.31/))
 - MCTACO ([Zhou et al., 2019](https://aclanthology.org/D19-1332/))
@@ -30,6 +30,7 @@ This is the repository containing evaluation data, instructions and demonstratio
 
 ## **Results**
 <img width="1875" height="1090" alt="ScreenShot_2025-10-01_180505_929" src="https://github.com/user-attachments/assets/2721bc15-208b-4717-b610-4349f7f58cd6" />
+
 
 
 
